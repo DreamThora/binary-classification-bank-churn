@@ -1,5 +1,3 @@
-# This branch is for test
----
 # 🏦 Bank Customer Churn Prediction
 
 Binary classification model to predict which bank customers are likely to churn, using interaction features and domain-driven feature engineering. Built as a Kaggle Playground Series competition submission.
