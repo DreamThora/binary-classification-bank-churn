@@ -129,7 +129,7 @@ Logistic Regression was selected for:
 
 ```python
 # Key dependencies
-pip install scikit-learn statsmodels
+pip install -r requirements.txt
 ```
 
 ---
